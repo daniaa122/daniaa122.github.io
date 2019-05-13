@@ -166,14 +166,27 @@ img {
     }
 }
 
-@media screen and (max-width: 500px) {
-    article {
+
+
+@media screen and (max-width: 500px)
+{
+    article
+    {
         width: 100%
     }
-    aside {
+    aside
+    {
         width: 100%
+    
     }
-    main {
+    main 
+    {
         margin-left: 0%;
         width: 100%
     }
+     .left:hover{
+    }
+    
+        
+    
+
