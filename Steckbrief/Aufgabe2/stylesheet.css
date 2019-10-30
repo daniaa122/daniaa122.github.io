@@ -1,0 +1,67 @@
+body {
+    background-image: url("images/bg.png");
+  
+    width: 800px;
+    margin: auto
+}
+  
+nav {
+  position: fixed; 
+  top: 0; 
+  right: 50px;
+  border: 6px solid black;
+  border-radius: 4px 4px;
+  
+}
+
+.linki
+
+  {color: red;
+  }
+
+  nav a {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+
+  a:hover {
+  background: rgba(255, 0, 0, 0.63);
+}
+
+a {
+font-size: 12;
+    font: Helvetica, Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.fb
+{
+  background-color: black
+}
+form{
+  width:400px;
+  margin: auto;
+}
+input{
+  width: 250px;
+  height: 25px;
+  background-color: rgb(141, 140, 140);
+  padding-left: 10px;
+  margin-bottom: 7px;
+}
+.nachrichtfeld
+{color: red;
+
+}
+
+
+
+
+
+
+
+
+
+  
