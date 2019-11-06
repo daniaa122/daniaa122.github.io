@@ -1,0 +1,25 @@
+body{
+    background-image: url(Station_8_Youtube/images/bg.png);
+    text-align: center;
+}
+
+#wrapper{
+    position: absolute;
+    left:50%;
+    top: 50%;
+    transform:  translate(-50%, -50%);
+}
+
+iframe{
+    position: absolute;
+    left: 8%;
+    top: 12%;
+    width: 500px;
+    height: 300px;
+}
+
+.banderole{
+    position: absolute;
+    right: 0;
+    bottom: 2%;
+}

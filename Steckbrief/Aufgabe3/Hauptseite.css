@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: url(Station_1_Positionierung/images/coaching-1839971_1280.png);
+    background-color: rgba(0, 0, 0, 0.884);
+    width: 800px;
+    margin: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapp{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ul {
+    list-style-type: none;
+    margin: 8px;
+    padding: 8px;
+}
+
+li {
+    float:right;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+a {
+    font-size: 15px;
+    color:darkorange;
+    background-color: darkgreen;
+}
+
+li a {
+    display: ruby-base-container;
+    text-decoration: none;
+    text-align: center;
+    padding: auto
+}
