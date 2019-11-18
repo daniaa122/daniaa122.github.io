@@ -1,0 +1,32 @@
+body {
+    background-image: url(schwarzer-und-grauer-hintergrund-des-alten-schmutzes_74190-2032.jpg);
+    width: 100%;
+    text-align: center;
+    background-size: 100% auto;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: rgb(255, 0, 0);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.startbutton {
+    width:190px;
+    height: auto;
+    text-align: center;
+}
+ 
+
+.startbutton:hover {
+    -webkit-transform: rotateZ(-5deg);
+    -ms-transform: rotateZ(-5deg);
+    transform: rotateZ(-5deg);
+}
